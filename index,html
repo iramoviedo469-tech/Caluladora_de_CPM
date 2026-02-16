@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>ProjectMaster Ultra - Descarga</title>
+    <style>
+        body { font-family: sans-serif; background: #1e1e2e; color: white; text-align: center; padding: 50px; }
+        .card { background: #313244; padding: 40px; border-radius: 20px; display: inline-block; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
+        h1 { color: #89b4fa; }
+        .btn { background: #f38ba8; color: white; padding: 15px 30px; text-decoration: none; border-radius: 10px; font-weight: bold; font-size: 20px; display: inline-block; margin-top: 20px; transition: 0.3s; }
+        .btn:hover { background: #fab387; transform: scale(1.05); }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>🏗️ ProjectMaster Ultra</h1>
+        <p>Calculadora de Ruta Crítica y Simulación Monte Carlo</p>
+        <hr>
+        <p>Versión v1.0 para Windows</p>
+        <a href="TU_LINK_DE_RELEASES_AQUI" class="btn">🚀 DESCARGAR AHORA</a>
+    </div>
+</body>
+</html>
